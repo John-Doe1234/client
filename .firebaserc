@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fluted-union-394120": {
+      "hosting": {
+        "client": [
+          "fluted-union-394120"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fluted-union-394120"
+  }
+}
